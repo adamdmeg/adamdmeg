@@ -1,6 +1,6 @@
 # Hello, world! I'm Megan.
 
-🎓 CS @ UNC Chapel Hill
+🎓 CS @ UNC Chapel Hill Alum
 
 💻 Interested in **AI engineering**, **backend systems**, and building tools that help people and organizations work _better_
 
