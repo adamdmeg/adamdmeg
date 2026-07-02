@@ -8,15 +8,6 @@ Most of my work has been in backend engineering, but I've also contributed in ot
 
 I enjoy working across the full development cycle - designing, debugging, and delivering - and I'm driven by a love for learning.
 
-**🧠 Current interests**
-* AI + software engineering
-* Developer experience & automation
-* Scalable backend design
-
-**🌱 What I'm learning**
-* Frontend architecture & design (Next.js, React, TypeScript, Tailwind CSS)
-* Building AI apps
-
 **🛠️ Tech Stack**
 
 **Languages:** Python · Java · C · TypeScript · JavaScript · SQL
